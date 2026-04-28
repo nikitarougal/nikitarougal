@@ -1,15 +1,49 @@
-### Welcome to my GitHub repository! 👋
+# Welcome to my GitHub repository! 👋
 
-I have experience in both Salesforce and web development, having worked with various technologies and platforms to deliver effective solutions.
 
-As a Salesforce Developer, I have a strong background in developing applications using Lightning Components (LWC and Aura), Visualforce, Apex, APIs, Web Services, and Triggers. I am experienced in handling security policies, SSO configuration, sharing rules, permissions, and roles, as well as utilizing Process Builder, Flows, SQL/SOQL/SOSL, and creating custom integrations. In addition to development, I have provided technical assistance to internal and external customers, successfully identifying, investigating, and resolving various technical issues, including performance optimization and configuration challenges.
+I’m a CRM-focused developer with hands-on experience in **Salesforce** and growing expertise in **Microsoft Power Platform**.
 
-Moreover, I also have a background in web development, where I have worked on improving website functionality and optimizing speed and performance as a Web Developer.
+## 🚀 What I do
+* Build and customize CRM solutions
+* Design and implement integrations using REST APIs
+* Automate business processes and workflows
+* Work with real-world business use cases and data models
 
-In terms of qualifications, I hold several Salesforce certifications, including Salesforce Platform Developer (I & II), Admin, Platform App Builder, and JavaScript. These certifications validate my technical skills and dedication to staying up-to-date with the latest industry standards.
+## 🧩 Core Experience
 
-Throughout my professional experiences, I have honed my problem-solving abilities, attention to detail, and collaboration skills. I am deeply passionate about leveraging technology to deliver innovative solutions that drive business success.
+**Salesforce Development**
 
-To ensure efficient release management, I have hands-on experience with standard platforms such as Git, Jenkins, and BitBucket. These platforms have allowed me to effectively manage version control and streamline the release process.
+* Apex, Triggers, Lightning Web Components (LWC), Aura
+* Flows, Process Automation, SOQL/SOSL
+* Integrations (REST APIs, external services)
+* Security model (roles, profiles, sharing rules)
 
-I am excited to continue pushing the boundaries of technology and contributing to impactful projects. Thank you for considering my background and experience.
+**Microsoft Power Platform**
+
+* Power Apps (Canvas & Model-driven)
+* Power Automate (flows, error handling, integrations)
+* Dataverse (data modeling, relationships, security)
+
+**Backend / Web**
+
+* JavaScript, Node.js, Next.js
+* C#, SQL
+
+## 🏗️ What I focus on
+
+I enjoy working at the intersection of:
+
+* CRM systems
+* integrations
+* business process automation
+
+Turning business requirements into working systems is what I do best.
+
+## 📜 Certifications
+* Microsoft Certified: Power Platform Developer (PL-400)
+* Salesforce Platform Developer I & II
+* Salesforce Administrator
+* Salesforce App Builder
+* Salesforce JavaScript Developer I
+***
+I’m continuously improving my skills and building projects to deepen my expertise in CRM platforms and integrations.
